@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Egress</string>
+    <string name="title_activity_home">Egress</string>
+    <string name="title_activity_login">Egress</string>
+    <string name="choose_account_mandatory">Vous devez choisir un compte</string>
+    <string name="error">Une erreur est survenue</string>
+    <string name="welcome">Bienvenue %1$s</string>
+    <string name="connected">Online</string>
+    <string name="disconnected">Offline</string>
+    <string name="commit_in_progress">Capture en cours...</string>
+    <string name="total_captures">Nb. total de captures: %1$s</string>
+    <string name="leader_board_entry">%1$s - %2$s %3$s</string>
+    <string name="player_creation_error">La création du profil a échoué</string>
+    <string name="leader_board">Leader board</string>
+    <string name="too_late">Trop tard !</string>
+    <string name="no_play_services">Impossible de se connecter aux Play services</string>
+    <string name="login_failed">Le login a échoué</string>
+</resources>

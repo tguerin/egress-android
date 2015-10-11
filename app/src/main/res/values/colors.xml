@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="circle_color">#af90caf9</color>
+
+    <color name="primary">#4caf50</color>
+    <color name="primary_pressed">#ff2e6532</color>
+    <color name="ripple">#ff80ab</color>
+    <color name="accent">#ff4081</color>
+    <color name="accent_pressed">#f50057</color>
+    <color name="connected">#4caf50</color>
+    <color name="disconnected">#f44336</color>
+</resources>
